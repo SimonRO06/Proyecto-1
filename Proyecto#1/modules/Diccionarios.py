@@ -1,0 +1,5 @@
+libros = {}
+peliculas = {}
+musicas = {}
+IdentificadorUnico = []
+
